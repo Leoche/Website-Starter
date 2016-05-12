@@ -1,0 +1,24 @@
+{
+  "name": "default",
+  "description": "default description",
+  "main": "index.js",
+  "authors": [
+    "Leoche"
+  ],
+  "license": "MIT",
+  "keywords": [
+  	"default"
+  ],
+  "homepage": "http://default.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "^4.1.1"
+  }
+}
